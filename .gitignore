@@ -28,11 +28,18 @@ tmp/
 
 # Docker-артефакты и кеш
 docker-compose.override.yml
-*.log
-build.log
 
 # MacOS
 .DS_Store
 
 # Linux temporary files
 *~
+
+# Всякая поебень
+files.py
+
+# Секреты
+.env
+
+# Логи
+*.log
