@@ -9,7 +9,7 @@ def draw_boxes(
     label: str = "object",
     color: str = "red",
     width: int = 3,
-    font_path: str = "/content/times.ttf",
+    font_path: str = "content/times.ttf",
     font_size: int = 16
 ) -> Image.Image:
     im = image.copy().convert("RGBA")
