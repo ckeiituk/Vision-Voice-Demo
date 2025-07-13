@@ -1,4 +1,3 @@
-# CPU‑only сборка
 transformers
 accelerate
 pillow
