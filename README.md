@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **MVP‑прототип:** по **русской** голосовой команде ищет указанный объект на картинке и подсвечивает его bounding‑box’ом.
-> Работает *полностью офлайн* и *на CPU*.
+> Работает *полностью офлайн*.
 
 <p align="center">
   <img src="content/preview.gif" width="680" alt="Gradio UI">
