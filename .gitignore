@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+venv/
+.venv/
+ENV/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Файлы среды разработки и редакторов
+.idea/
+.vscode/
+*.swp
+
+# Модели и тяжёлые данные
+models/
+
+# Gradio-логи и временные файлы
+.gradio/
+logs/
+tmp/
+
+# Docker-артефакты и кеш
+docker-compose.override.yml
+*.log
+build.log
+
+# MacOS
+.DS_Store
+
+# Linux temporary files
+*~

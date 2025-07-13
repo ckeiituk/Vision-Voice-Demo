@@ -1,0 +1,12 @@
+# CPU‑only сборка
+transformers
+accelerate
+pillow
+bitsandbytes
+faster-whisper
+ctranslate2
+gradio
+torch
+einops
+timm
+sentencepiece
